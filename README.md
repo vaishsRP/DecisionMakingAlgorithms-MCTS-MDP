@@ -28,6 +28,3 @@ The project includes:
 - transition and reward matrix construction
 - optimal policy derivation under varying noise
 - Monte Carlo optimisation of a parametrised stochastic policy
-
-```bash
-python main.py
